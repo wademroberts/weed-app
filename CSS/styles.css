@@ -1,0 +1,116 @@
+nav {
+  background-color: #d1f5d3;
+}
+
+h1 {
+  bottom: 70px;
+}
+
+.navbar-brand {
+  font-family: 'Over the Rainbow', cursive;
+  font-size: 4rem;
+}
+
+.links {
+  position: relative;
+  font-family: Montserrat-black;
+  color: black;
+  font-size: 1.5rem;
+  left: 700px;
+  padding-top: 50px;
+}
+
+.contact {
+  padding-right: 30px;
+  color: black;
+}
+
+.strains {
+  padding-right: 30px;
+  color: black;
+}
+
+.cta {
+  padding-right: 30px;
+  color: black;
+}
+
+.cta:hover {
+  color: #FFF;
+}
+
+.testimonial:hover {
+  color: #FFF;
+}
+
+.contact:hover {
+  color: #FFF;
+}
+
+#intro {
+  padding: 12% 15%;
+  position: relative;
+  top: 10px;
+}
+
+.first {
+  font-family: Montserrat-black;
+  font-size: 3rem;
+  text-align: center;
+  position: relative;
+  margin-top: 50px;
+  z-index: 1;
+}
+
+.weed-pic {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 500px;
+  height: 400px;
+  margin-top: -250px;
+  margin-left: -250px;
+  z-index: 0;
+  */
+}
+
+.buttons {
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+#strain-types {
+  background-color: #9dc6a7;
+  padding: 7% 15%;
+  margin: 0;
+}
+
+.h1-strain {
+  text-align: center;
+  font-family: Montserrat-black;
+  font-size: 3rem;
+  color: #FFF;
+}
+
+.h1-strain-2{
+  text-align: center;
+  font-family: Montserrat-black;
+  font-size: 3rem;
+  color: #FFF;
+  margin: 25px;
+}
+
+.h1-strain{
+padding-top: 50px;
+}
+
+.foot{
+  padding: 15px 15px;
+}
+
+.footer{
+  text-align: center;
+  background-color: #FFF;
+  padding: 100px 100px;
+}
